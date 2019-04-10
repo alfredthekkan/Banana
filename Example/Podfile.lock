@@ -1,0 +1,16 @@
+PODS:
+  - banana (0.1.0)
+
+DEPENDENCIES:
+  - banana (from `../`)
+
+EXTERNAL SOURCES:
+  banana:
+    :path: ../
+
+SPEC CHECKSUMS:
+  banana: 030b7ff68cc01c851479a8911e75a744598c1d41
+
+PODFILE CHECKSUM: eb1c034a0fca43a818ca76515b55052834d9fd72
+
+COCOAPODS: 1.4.0

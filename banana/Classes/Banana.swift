@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+class Banana {
+    class var version: String {
+        return "1.0.0"
+    }
+}

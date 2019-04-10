@@ -1,0 +1,22 @@
+{
+  "name": "banana",
+  "version": "0.1.0",
+  "summary": "A short description of banana.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alfredthekkan/banana",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alfredthekkan": "alfred@farabi.ae"
+  },
+  "source": {
+    "git": "https://github.com/alfredthekkan/banana.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "banana/Classes/**/*"
+}

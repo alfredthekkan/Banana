@@ -1,0 +1,6 @@
+framework module banana {
+  umbrella header "banana-umbrella.h"
+
+  export *
+  module * { export * }
+}
